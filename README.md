@@ -30,7 +30,7 @@ Me chamo Bruno Rodrigues, sou de São Paulo e atualmente curso Desenvolvimento F
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -92,7 +92,7 @@ Me chamo Bruno Rodrigues, sou de São Paulo e atualmente curso Desenvolvimento F
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
