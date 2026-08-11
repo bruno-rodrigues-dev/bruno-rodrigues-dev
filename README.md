@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento Fullstack com Foco em Dados`**
 
-Me chamo Bruno Rodrigues, sou de São Paulo e atualmente curso Desenvolvimento Fullstack na faculdade. Também fiz o curso técnico no SENAI e complemento meus estudos com cursos por fora. Tenho interesse na área de Dados, ainda explorando esse universo e descobrindo qual caminho seguir. Gosto de transformar ideias em interfaces (uso bastante o Figma) e construir soluções com tecnologias como HTML, CSS, JavaScript, Python, Java e SQL.
+Me chamo Bruno Rodrigues, sou de São Paulo e atualmente curso Análise de Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie. Também curso Desenvolvimento de Sistemas SENAI e complemento meus estudos com cursos por fora. Tenho interesse na área de Dados, ainda explorando esse universo e descobrindo qual caminho seguir. Gosto de transformar ideias em interfaces (uso bastante o Figma) e construir soluções com tecnologias como HTML, CSS, JavaScript, Python, Java e SQL.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/bruno-rodrigues-7b0a392bb">
